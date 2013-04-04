@@ -2,7 +2,7 @@ DataLoader
 ==========
 
 Author: Nathan Reid  
-License: MIT License
+License: MIT License  
 Description:  
 This is a simple library to run several functions and perform a callback once they are complete.
 
