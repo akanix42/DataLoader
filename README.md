@@ -7,7 +7,7 @@ Description:
 This is a simple library to run several functions and perform a callback once they are complete.
 
 Example use case:
-Making 2 AJAX calls to the server to load data and waiting for document ready to complete before displaying the data.
+Make 2 AJAX calls to the server to load data and wait for document ready to complete before displaying the data.
 
 Example code:
 ```javascript
